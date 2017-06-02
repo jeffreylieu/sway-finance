@@ -1,10 +1,11 @@
 body {
   background-image: url("images/bigbackground.png");
-
+}
 img {
-  width:100%;
+  width:154;
+  height: 24px;
 }
 .page {
-  margin 0, 300px
+  margin 0, 300px;
 
 }
