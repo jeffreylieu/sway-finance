@@ -19,6 +19,21 @@ h1 {
   margin-top: 105px;
 }
 
+h4  {
+  font-size: 20px;
+  margin-bottom: 54px;
+}
+
+.sway-logo {
+  display: inline-block;
+  width: 154px;
+}
+
+.slack-image {
+  display: inline-block;
+  width: 940px;
+}
+
 img {
   width: 100%;
 }
